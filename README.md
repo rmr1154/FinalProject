@@ -1,3 +1,3 @@
 # FinalProject
 
-##Team: Randall Richardson
+## Team: Randall Richardson
