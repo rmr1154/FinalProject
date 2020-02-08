@@ -168,8 +168,8 @@ print(metrics.classification_report(y_test, predicted))
 
 import tensorflow as tf
 from tensorflow import keras
-from keras.layers import  Dropout, Dense
-from keras.models import Sequential
+from tensorflow.keras.layers import  Dropout, Dense
+from tensorflow.keras.models import Sequential
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OrdinalEncoder
