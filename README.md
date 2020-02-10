@@ -2,5 +2,7 @@
 
 ### Team: Randall Richardson
 
-This project will attempt to predict which Category a give product should be assigned to based on selected features from an existing catalog of items.  The intended purpose will be to allow the user to reclass items to a more granular set of categories for a very large catalog by manually reclassing a training set.  In addition as new products are added the model will be able to propelry class them into the correct category without user intervention.
+## Market Basket Analysis of Convenience Store POS Transactions
+<hr>
 
+This project will attempt to perform a MBA (Market Basket Analysis) on retail sales transactions for a chain of Convenience Stores.  The goal will be to find interesting relationships using unsupervised learning to determine which items are frequently sold together.
